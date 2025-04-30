@@ -1,0 +1,5 @@
+#env folder
+env/
+
+#.gif video
+*.gif
